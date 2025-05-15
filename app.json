@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "",
+        "value": "BQGAGkUAt7KwLoadYbewdo7UPSBNpFnm6NmQFOJaAgEZTRC_yoSPe-RT3764-cuWIn-AG_6q2zYdy11_hpHobde-4X9GrP9s6yHSftKvv0sj2eAOa2XD9EaO1KmTm_u9Ixpuqgwnk_Z87q57vSMBcX_hDAsDekPKl4WJH4ixunw_V2gicy8FT6z27ogzkPI9q32CMVFw0SEKmRVBd8XVoB6yZTh_Qubji7sZtD1IZTCSo4LwWwbtXvE_1BBr16uJJMX4a_SuQW96cbxYZpNkvvcGjRSNDDnCmBklt1o__zSBibXh1Ce1loSSa4gqEmmQCUEi4G7sz2SNGgID3X20jt29kznvIwAAAAG0E_muAA",
         "required": true
       },
       "HEROKU_API_KEY": {
