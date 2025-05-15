@@ -1,5 +1,5 @@
 {
-    "name": "Aaru Music",
+    "name": "˹𝐁ɪʟɪ ꭙ 𝐌ᴜsɪᴄ˼ [ ɴᴏ ᴀᴅʂ ]",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://files.catbox.moe/pjbaen.jpg",
     "keywords": [
@@ -14,27 +14,27 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "6435225",
+        "value": "25172549",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "4e984ea35f854762dcde906dce426c2d",
+        "value": "b04878ffbf15cb5dd08ea72ae7067e16",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "7561897338:AAFCipEiTLts3BMiZUO8dHyJeBBeGF-NLt4",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://naitikgaming269:Harop@cluster0.vfsbi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://jovipo3568:TA37PHIb4wXOqznu@cluster0.f8l6ggd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6955568347",
+        "value": "6311318596",
         "required": true
       },
       "STRING_SESSION": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. .",
-        "value": "-1001894362208",
+        "value": "-1002669019123",
         "required": true
       }
     },
